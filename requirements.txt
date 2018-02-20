@@ -1,0 +1,8 @@
+pymarketcap
+async_timeout
+discord
+aiohttp
+asyncio
+requests
+aylien-apiclient
+beautifulsoup4
