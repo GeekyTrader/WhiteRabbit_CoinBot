@@ -8,7 +8,7 @@
 
 Coinbot is a Discord bot created in Python and used to display some useful informations about CryptoMarket trading.
 
-Send me a discord message to @Abolah#1337 or @Abolaah on Twitter if you want informations about the hosting.
+Credit goes to @Abolah#1337 or @Abolaah on GitHub
 
 ## If you want to test it, you can join this server :
 * [CoinBot Test Server](https://discord.gg/PVyNRca)
